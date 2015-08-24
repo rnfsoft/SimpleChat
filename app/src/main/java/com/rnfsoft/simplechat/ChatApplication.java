@@ -10,8 +10,8 @@ import com.parse.ParseObject;
  */
 public class ChatApplication extends Application {
 
-    public static final String YOUR_APPLICATION_ID = "If2l6sBEKkDGXmPkVJEqh0tlbrIcihgg7xhFIEsd";
-    public static final String YOUR_CLIENT_KEY = "yzdaXIGK5qPKQvY0ExFvewTAVPnbDpFhb6NJb7bX";
+    public static final String YOUR_APPLICATION_ID = "";
+    public static final String YOUR_CLIENT_KEY = "";
     @Override
     public void onCreate() {
         super.onCreate();
