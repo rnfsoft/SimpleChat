@@ -2,7 +2,9 @@
 
 Codes from https://github.com/codepath/android_guides/wiki/Building-Simple-Chat-Client-with-Parse
 
-Duraion: 1 hr
+Time: 1 hr
+
+Level: 2/3
 
 Device: Emulator (Not working)
 
